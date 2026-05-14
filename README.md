@@ -20,6 +20,7 @@ This repo is not a deployed energy system, proof of output, certified safety pac
 | Publication state | private/not-public |
 | Release state | not released |
 | Public GitHub repo | not created |
+| First artifact | `solar-to-hydrogen/synthetic-solar-to-hydrogen-control-ledger-study.md` scaffolded |
 | Published artifact | private/not-public |
 | Released artifact | not released |
 | Profile routing | planned |
@@ -69,4 +70,4 @@ Profile routing and proof-stack routing are planned only. Any link from `Franzab
 
 ## First Build Task
 
-Create or complete `solar-to-hydrogen/synthetic-solar-to-hydrogen-control-ledger-study.md` as a scaffolded public-safe synthetic study with assumptions, control-state ledger, validation plan, proof limits, and boundary checklist.
+First artifact scaffolded: `solar-to-hydrogen/synthetic-solar-to-hydrogen-control-ledger-study.md` now includes a problem statement, synthetic energy context, assumptions table, synthetic input references, control-state ledger, simplified energy-flow method, safety boundary, validation plan, Mermaid validation diagram, validation questions, proof limits, and public/private/sealed checklist.

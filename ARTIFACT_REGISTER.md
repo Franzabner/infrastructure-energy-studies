@@ -2,7 +2,7 @@
 
 | Artifact | Status | Boundary class | Review state |
 | --- | --- | --- | --- |
-| `solar-to-hydrogen/synthetic-solar-to-hydrogen-control-ledger-study.md` | scaffolded | public-safe synthetic | planned |
+| `solar-to-hydrogen/synthetic-solar-to-hydrogen-control-ledger-study.md` | scaffolded | public-safe synthetic | first artifact ready for local validation review |
 | `water-current-electricity/water-current-study-template.md` | scaffolded | public-safe template | planned |
 | `resilient-power-conversion/conversion-assumptions-template.md` | scaffolded | public-safe template | planned |
 | `storage-assumptions/storage-assumptions-table-template.md` | scaffolded | public-safe template | planned |
