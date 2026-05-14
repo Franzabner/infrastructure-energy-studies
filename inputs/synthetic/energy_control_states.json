@@ -1,0 +1,14 @@
+{
+  "status": "scaffolded",
+  "publication_state": "private/not-public",
+  "release_state": "not released",
+  "states": [
+    "standby",
+    "available-resource",
+    "conversion-requested",
+    "storage-limited",
+    "fault-review",
+    "validation-hold"
+  ],
+  "boundary": "Synthetic control-state labels only; no live operations or certified safety claims."
+}

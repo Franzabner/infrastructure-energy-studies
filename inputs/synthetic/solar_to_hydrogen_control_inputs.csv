@@ -1,0 +1,3 @@
+input_id,resource_class,conversion_request,storage_class,review_state
+synthetic-001,medium,requested,available,planned-review
+synthetic-002,low,hold,limited,validation-hold

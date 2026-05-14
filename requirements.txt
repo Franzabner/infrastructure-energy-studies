@@ -1,0 +1,4 @@
+# Optional public-safe synthetic study tooling
+numpy
+pandas
+matplotlib
