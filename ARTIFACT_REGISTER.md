@@ -9,4 +9,4 @@
 | `control-states/public-safe-control-state-notes.md` | scaffolded | public-safe notes | planned |
 | `safety-boundaries/non-certified-safety-boundary.md` | scaffolded | public-safe boundary | planned |
 
-Published artifact: private/not-public. Released artifact: not released.
+Published artifact: scaffolded. Released artifact: not released.

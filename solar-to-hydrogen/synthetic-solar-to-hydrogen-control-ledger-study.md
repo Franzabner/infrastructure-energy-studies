@@ -54,7 +54,7 @@ The system context is intentionally simplified:
 3. Check whether the conversion request is standby, requested, or hold.
 4. Compare the storage class against a qualitative boundary.
 5. Route the study state to validation-hold when assumptions or safety questions require review.
-6. Record proof limits before any public creation, routing, or proof-stack update.
+6. Record proof limits before any profile routing, proof-stack routing, or release-state update.
 
 This method is a reasoning scaffold. It does not calculate production output, validated efficiency, hardware performance, system safety, or commercial readiness.
 
@@ -73,7 +73,7 @@ Held safety-sensitive material includes production schematics, production CAD, B
 | Boundary/status scan | Plan-listed `rg` scan | Expected terms present as boundaries or status labels |
 | Whitespace | `git diff --check` | PASS |
 | Repo state | `git status --short` | Shows only intended local edits before commit |
-| Remote state | `git remote -v` | Empty until public creation is approved |
+| Remote state | `git remote -v` | Reviewed public GitHub remote only |
 
 ## Mermaid Energy Validation Diagram
 
@@ -95,19 +95,19 @@ flowchart TD
 - Does the study avoid private measurements, private sites, private facility layouts, exact dimensions, and live operations?
 - Does the study avoid deployed energy, proven output, certified safety, commercial-readiness, physical-validation, and proof-completion claims?
 - Does the study avoid production CAD, production schematics, BOMs, Gerbers, sealed designs, and sealed geometry?
-- Are public/private/sealed boundaries visible before any public creation or routing step?
+- Are public/private/sealed boundaries visible before any profile routing or proof-stack routing step?
 
 ## What This Proves
 
 - A public-safe way to structure a synthetic energy control-ledger study.
 - A repeatable pattern for assumptions, state transitions, validation questions, and proof-limit language.
-- A local scaffold suitable for human review before public creation.
+- A scaffolded public artifact suitable for human review before profile or proof-stack routing.
 
 ## What This Does Not Prove
 
 - It does not prove energy output, conversion efficiency, hydrogen production, system safety, deployment readiness, commercial-readiness, physical validation, or certification.
 - It does not document a deployed energy system, live control logic, private site, private facility layout, or production design.
-- It does not release a public artifact or complete proof-stack routing.
+- It does not release a finished artifact or complete proof-stack routing.
 
 ## Public / Private / Sealed Checklist
 
