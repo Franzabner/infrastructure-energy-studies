@@ -17,4 +17,4 @@ Do not add deployed energy systems, proven output, certified safety, commercial-
 
 ## Publication Rule
 
-The repo remains `private/not-public` and `not released` until a separate human-reviewed public creation step approves publication, description, topics, routing, and proof-stack rows.
+The repo is a public scaffold and remains `not released` until a separate human-reviewed release step approves any release status, routing, or proof-stack rows.

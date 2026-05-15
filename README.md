@@ -1,12 +1,12 @@
 # Infrastructure Energy Studies
 
 Status: scaffolded
-Publication state: private/not-public
+Publication state: public scaffold
 Release state: not released
 
 ## What This Repo Is
 
-`infrastructure-energy-studies` is a local-only Phase 5 scaffold for public-safe synthetic infrastructure energy studies. It covers water-current-to-electricity patterns, solar-to-hydrogen reasoning, resilient power conversion, energy storage assumptions, control states, safety boundaries, and validation plans.
+`infrastructure-energy-studies` is a published Phase 5 public scaffold for public-safe synthetic infrastructure energy studies. It covers water-current-to-electricity patterns, solar-to-hydrogen reasoning, resilient power conversion, energy storage assumptions, control states, safety boundaries, and validation plans.
 
 ## What This Repo Is Not
 
@@ -17,11 +17,11 @@ This repo is not a deployed energy system, proof of output, certified safety pac
 | Field | Value |
 | --- | --- |
 | Status | scaffolded |
-| Publication state | private/not-public |
+| Publication state | public scaffold |
 | Release state | not released |
-| Public GitHub repo | not created |
+| Public GitHub repo | published scaffold |
 | First artifact | `solar-to-hydrogen/synthetic-solar-to-hydrogen-control-ledger-study.md` scaffolded |
-| Published artifact | private/not-public |
+| Published artifact | scaffolded |
 | Released artifact | not released |
 | Profile routing | planned |
 | Proof-stack routing | planned |
@@ -66,7 +66,7 @@ This repo contains public-safe synthetic energy studies only. It must not contai
 
 ## Links Back After Public Creation
 
-Profile routing and proof-stack routing are planned only. Any link from `Franzabner` or `franzabner-proof-stack` must be handled in a separate reviewed routing patch after public creation is approved.
+Profile routing and proof-stack routing are planned only. Any link from `Franzabner` or `franzabner-proof-stack` must be handled in a separate reviewed routing patch.
 
 ## First Build Task
 

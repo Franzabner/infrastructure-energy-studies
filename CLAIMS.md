@@ -2,7 +2,7 @@
 
 ## Allowed Claims
 
-- This is a scaffolded local-only repo for public-safe synthetic energy studies.
+- This is a scaffolded public repo for public-safe synthetic energy studies.
 - The repo documents assumptions, validation questions, and public/private/sealed boundaries.
 - The first planned artifact is a synthetic solar-to-hydrogen control-ledger study.
 
